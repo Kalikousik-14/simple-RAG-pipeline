@@ -37,8 +37,13 @@ Verify the working by calling the apis thorugh postman or curl or browser:
 ## Tools Used:
 
 Embedding              sentence-transformers (MiniLM)
+
 Vector DB              FAISS
+
 Document Parsing       PyPDF2 / built-in fopen()
+
 Local LLM              transformers + quantized Mistral
+
 Cloud LLM (optional)   OpenAI API (gpt-3.5-turbo)
+
 Web API                Flask
