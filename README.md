@@ -1,4 +1,4 @@
-# RAG PIPELINE
+# Simple RAG Pipeline
 
 This project allows you to upload documents, ask questions based on their content, and get grounded answers using a local LLM or the OpenAI API.
 
@@ -17,7 +17,7 @@ Get answers from a local language model Or OpenAI GPT-3.5
 1. Clone the Repository.
     ```bash
     git clone https://github.com/Kalikousik-14/simple-RAG-pipeline.git
-    cd rag-pipeline
+    cd simple RAG pipeline
 
 2. Install Required Libraries.
     ```pip install -r requirements.txt```
